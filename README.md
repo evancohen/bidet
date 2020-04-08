@@ -1,7 +1,7 @@
 # 🚽 bidet 💦
 > DIY IoT Bidet - Because why doesn't this already exist?
 
-In mid-March (when 🧻 was nowhere to be found) I joked with friends that, "now is the time to invest in bidet stocks!" Fast forward a month later and TP is still in short supply. With all of this extra free time self-isolating, I began thinking: "why not build my own bidet?" And thus, another horrible internet of things project was born...
+In mid-March (when 🧻 was nowhere to be found) I joked with friends that "it's time to invest in bidet stocks!" Fast forward a month later and TP is still in short supply. With all of this free time self-isolating, I began thinking: "why not build my own bidet?" And thus, another horrible internet of things project was born...
 
 ## Butt what should it be able to do?
 - [ ] **📱 Integrated Mobile App** - a locally hosted PWA to provide users with a streamlined butt washing UX (it doesn't exist if it doesn't have an app)
