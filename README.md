@@ -20,7 +20,9 @@ In mid-March (when 🧻 was nowhere to be found) I joked with friends that "it's
 
 ... more soon!
 
-> 💡 Have an idea that you don't see here? Share it with me: bidet@evancohen.io
+> 💡 Have an idea that you don't see here? Share it with me:  
+> Twitter: [@_evnc](https://twitter.com/_evnc)  
+> Email: bidet@evancohen.io
 
 ## Things to research  
 I've never built a bidet before. The closest thing that I have experience with, at least conceptually, is an emergency add-on to my sump pump that I built when it broke (story for antother time). Basiclly I have no idea what I'm doing or where to start, but that's what makes for the best projects!
