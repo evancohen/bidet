@@ -18,7 +18,7 @@ In mid-March (when 🧻 was nowhere to be found) I joked with friends that "it's
 - [ ] **🚽 Auto-Open/Close** - Open on approach. Also maybe it could open and close the lid like a mouth and talk to you like a friend oh god i'm so lonely. Also maybe do foot direction detection to lift the lid and seat?
 - [ ] **🎶 Auto play music** - nobody wants to hear you in the bathroom. What better time to get turnt?
 - [ ] **💦 Auto moisten** - when you sit down it wets the sides so 💩 don't stick
-- [ ] **🧙‍♂️ X/Y/(Z?)** - precision wand placement for 100% accuracy (not trying to soak those cheeks)
+- [ ] **🎯 X/Y/(Z?)** - precision wand placement for 100% accuracy (not trying to soak those cheeks)
 - [ ] **👍 Commemorative sticker** - prints out a sticker with "certified clean on dd/mm/YYYY"
 - [ ] **🥒 Vegan** - that's right, it's totally vegan!
 
