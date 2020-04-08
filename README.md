@@ -14,3 +14,7 @@ In mid-March (when 🧻 was nowhere to be found) I joked with friends that, "now
 - [ ] **🎶Auto play music** - (custom playlist per user?)
 - [ ] **💦 Auto moisten** - when you sit down it wets the sides so 💩 don't stick
 - [ ] **🧙‍♂️ X/Y/(Z?)** - precision wand placement for 100% accuracy (not trying to soak those cheeks)
+
+... more soon!
+
+> 💡 Have an idea that you don't see here? Share it with me: bidet@evancohen.io
