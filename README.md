@@ -11,7 +11,7 @@ In mid-March (when 🧻 was nowhere to be found) I joked with friends that, "now
 - [ ] **🚻 ButtID™** - uniquely identify the user (by weight?) and load their presets
 - [ ] **💬 Voice interaction** - don't be touching things
 - [ ] **🚽 Auto-Flush** - Flush the toilet automaticlly after use
-- [ ] **🎶Auto play music** - (custom playlist per user?)
+- [ ] **🎶Auto play music** - nobody wants to hear you in the bathroom. What better time to get turnt?
 - [ ] **💦 Auto moisten** - when you sit down it wets the sides so 💩 don't stick
 - [ ] **🧙‍♂️ X/Y/(Z?)** - precision wand placement for 100% accuracy (not trying to soak those cheeks)
 
